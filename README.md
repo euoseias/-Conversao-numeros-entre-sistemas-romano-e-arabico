@@ -1,4 +1,4 @@
-Liguagem programação: PHP framework Laravel  
+Linguagem programação: PHP framework Laravel  
 
 Este projeto Laravel permite aos usuários converter números entre sistemas romano e arábico com validações adequadas e uma interface simples. 
 
